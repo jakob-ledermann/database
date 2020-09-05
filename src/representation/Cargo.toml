@@ -9,4 +9,4 @@ publish = false
 sql_types = { path = "../sql_types" }
 ordered-float = "2.0.0"
 sqlparser = { version = "0.6.1", features = ["bigdecimal"] }
-bigdecimal = "0.1.2"
+bigdecimal = "0.2.0"
